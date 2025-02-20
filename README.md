@@ -1,6 +1,6 @@
-##SIMPLE API WITH JWT
+## SIMPLE API WITH JWT
 
-#How To Install
+# How To Install
 
 1. clone project
 2. cd to project
